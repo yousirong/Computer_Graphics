@@ -1,0 +1,96 @@
+﻿  숙제3 대학교 네비게이션.cpp
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(38,44): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(39,44): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(40,43): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(67,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(68,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(69,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(71,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(72,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(73,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(75,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(76,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(77,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(79,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(80,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(81,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(84,35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(85,35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(86,35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(87,35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(98,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(99,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(100,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(102,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(103,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(104,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(106,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(107,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(108,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(110,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(111,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(112,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(116,45): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(239,38): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(239,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(240,38): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(240,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(254,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(259,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(264,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(269,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(274,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(330,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(363,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(389,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(392,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(398,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(401,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(407,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(410,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(416,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(419,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(425,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(428,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(434,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(442,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(449,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(454,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(459,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(463,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(485,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(493,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(496,28): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(502,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(505,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(512,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(515,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(522,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(525,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(532,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(535,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(544,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(573,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(577,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(580,28): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(586,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(589,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(596,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(599,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(606,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(609,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(633,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(637,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(640,28): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(646,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(649,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(656,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(659,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(666,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(669,25): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(678,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(701,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(745,20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(789,31): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\숙제3 대학교 네비게이션.cpp(790,31): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  숙제 2 로봇팔 움직임.vcxproj -> C:\Users\이준용\source\repos\숙제 2 로봇팔 움직임\Debug\숙제 2 로봇팔 움직임.exe
